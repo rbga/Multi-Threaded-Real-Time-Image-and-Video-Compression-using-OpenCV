@@ -60,7 +60,22 @@ This project demonstrates real-time image and video compression using OpenCV in 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contributions
+## Simulation
+
+### Initial Prompt
+
+![1689528134313](https://github.com/rbga/Real-Time-Image-and-Video-Compression-using-OpenCV/assets/75168756/f96aeca7-4d9f-434e-83d6-df38af9344e2)
+
+### Image Compression
+
+![1689528151793](https://github.com/rbga/Real-Time-Image-and-Video-Compression-using-OpenCV/assets/75168756/39b71303-31aa-4b72-ac96-73daa9bdac42)
+
+### Live Webcam Video Compression
+
+![1689528143695](https://github.com/rbga/Real-Time-Image-and-Video-Compression-using-OpenCV/assets/75168756/9c5cb7b1-5650-4d38-8df6-8a040f442995)
+
+
+
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
 
