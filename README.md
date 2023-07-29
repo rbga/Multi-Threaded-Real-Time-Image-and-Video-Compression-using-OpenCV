@@ -1,4 +1,4 @@
-# Real-Time Image and Video Compression using OpenCV
+# Multi Threaded Real-Time Image and Video Compression using OpenCV
 
 This project demonstrates real-time image and video compression using OpenCV in C++. It provides an interactive application that allows the user to choose between image or video compression, specify the compression level, and visualize the results.
 
